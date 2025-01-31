@@ -11,17 +11,17 @@ SFAD (Signal Filtering and Arrhythmia Detection) contains Python code for proces
 4. Visualization: The filtered ECG signal and RR intervals are plotted, with arrhythmic beats marked.
 
 ## Usage
-# Prepare Your ECG Signal:
+Prepare Your ECG Signal:
 
 Place your ECG signal data in a file (e.g., SignalExtraction.py).
 
 Ensure the file contains the ecg_signal and sampling_rate variables.
 
-# Run the Code:
+Run the Code:
 
 Execute the ArrDetection.py script to process the ECG signal and detect arrhythmias.
 
-# View the Results:
+View the Results:
 
 The script will print whether arrhythmia is detected.
 
