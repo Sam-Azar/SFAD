@@ -2,7 +2,7 @@ import wfdb
 import matplotlib.pyplot as plt
 
 # Define the correct file path (omit file extension)
-file_path = r"C:\Users\samue\Desktop\112"
+file_path = r"Input your file path"
 
 # Load the ECG record 
 record, fields = wfdb.rdsamp(file_path)  
